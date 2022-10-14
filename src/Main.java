@@ -37,13 +37,13 @@ public class Main {
             } else if(yourPlay.equals(r) && compPlay.equals(p)){
                 System.out.println("Loss!");
             }  else if(yourPlay.equals(p) && compPlay.equals(r)){
-                System.out.println("Loss!");
+                System.out.println("Win!");
             } else if(yourPlay.equals(p) && compPlay.equals(s)){
                 System.out.println("Loss!");
             } else if(yourPlay.equals(s) && compPlay.equals(p)){
-                System.out.println("Loss!");
+                System.out.println("Win!");
             } else if(yourPlay.equals(r) && compPlay.equals(s)){
-                System.out.println("Loss!");
+                System.out.println("Win!");
             } else if(yourPlay.equals(s) && compPlay.equals(r)){
                 System.out.println("Loss!");
             }
