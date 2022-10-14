@@ -7,6 +7,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
+        //added comment here to test git push
+
         String r = "rock";
         String p = "paper";
         String s = "scissors";
